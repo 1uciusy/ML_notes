@@ -24,3 +24,8 @@ This part mainly contain following algorithms:
 - Ensemble learning about trees such as GBDT, lightGBM, XGboost, etc
 
 These have affected our life profoundly and turned out quite useful for now
+
+--------
+更新记录：
+
+2.26 第五个算法 朴素贝叶斯，包括拉普拉斯平滑
