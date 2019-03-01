@@ -28,4 +28,6 @@ These have affected our life profoundly and turned out quite useful for now
 --------
 更新记录：
 
-2.26 第五个算法 朴素贝叶斯，包括拉普拉斯平滑
+3.1 支持向量分类，SMO算法待补充
+
+2.26 朴素贝叶斯，包括拉普拉斯平滑
