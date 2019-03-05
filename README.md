@@ -1,29 +1,6 @@
-# ML_notes
+Tips:
 
-This is my machine learning notes reposity which will consist of **Classic algorithm** and **State of art**
-
-## Classic algorithm
-
-This part mainly contain following algorithms:
-
-- Linear regression
-- Logistic regression
-- Naive Bayes
-- Shadow neural network
-- Support vector machine
-- Decision tree
-- ...
-
-They may be used less than ever, but they are fundamental
-
-## State of art
-
-This part mainly contain following algorithms:
-
-- Deep neural network related algorithm and method
-- Ensemble learning about trees such as GBDT, lightGBM, XGboost, etc
-
-These have affected our life profoundly and turned out quite useful for now
+1. 一些notebook中的数学公式无法正常显示，例如方程组等，需下载后观看
 
 --------
 更新记录：
