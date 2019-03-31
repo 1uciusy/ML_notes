@@ -4,7 +4,7 @@
 
 ### 一、经典机器学习算法
 
-1. 多元线性回归
+1. 多元线性回归 [HTML](http://188.131.150.243/src/ML_notes/html/01+LinearRegression.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/01+LinearRegression.pdf)
 
 - 正规方程
 
@@ -12,7 +12,7 @@
 
 - MSE
 
-2. 逻辑回归
+2. 逻辑回归 [HTML](http://188.131.150.243/src/ML_notes/html/02+LogisticRegression.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/02+LogisticRegression.pdf)
 
 - 交叉熵
 
@@ -20,21 +20,21 @@
 
 - 雅可比行列式
 
-3. K均值聚类
+3. K均值聚类 [HTML](http://188.131.150.243/src/ML_notes/html/03+Kmeans.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/03+Kmeans.pdf)
 
 - 距离公式
 
-4. 高斯判别分析
+4. 高斯判别分析 [HTML](http://188.131.150.243/src/ML_notes/html/04+GaussianDescriminativeAnalysis.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/04+GaussianDescriminativeAnalysis.pdf)
 
 - 多元正态分布极大似然估计
 
-5. 朴素贝叶斯
+5. 朴素贝叶斯 [HTML](http://188.131.150.243/src/ML_notes/html/05+NaiveBayes.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/05+NaiveBayes.pdf)
 
 - 贝叶斯定理
 
 - 拉普拉斯平滑
 
-6. 支持向量机
+6. 支持向量机 [HTML](http://188.131.150.243/src/ML_notes/html/06+SupportVectorClassification.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/06+SupportVectorClassification.pdf)
 
 - 可线性完全分离最大间隔分类器
 
@@ -50,31 +50,38 @@
 
 - 坐标上升、SMO算法
 
-7. K近邻算法
+7. K近邻算法 [HTML](http://188.131.150.243/src/ML_notes/html/07+KNN.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/07+KNN.pdf)
 
-8. CART分类树
+8. CART分类树 [HTML](http://188.131.150.243/src/ML_notes/html/08+CART+Classification.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/08+CART+Classification.pdf)
 
 - 基尼系数
 
 - 递归树
 
-9. 神经网络
+9. 神经网络 [HTML](http://188.131.150.243/src/ML_notes/html/09+NeuralNetwork.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/09+NeuralNetwork.pdf)
 
 - softmax
 
 - SGD
 
-10. 回归树
+10. 回归树 [HTML](http://188.131.150.243/src/ML_notes/html/10+CART+Regression.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/10+CART+Regression.pdf)
 
 - 平方误差和方差作为划分条件的对比
 
-11. 随机森林
+11. 随机森林 [HTML](http://188.131.150.243/src/ML_notes/html/11+RandomForest.html) [PDF](http://188.131.150.243/src/ML_notes/pdf/11+RandomForest.pdf)
 
 - bagging
 
+### 二、神经网络专题
+
+1. 通用
+
+- 优化器（optimizer）[HTML](http://188.131.150.243/src/ML_notes/html/NN+General+optimizers+ContinuouslyUpdating.html)
+
+
 Tips:
 
-1. 一些notebook中的数学公式无法正常显示，可看pdf
+1. 一些notebook中的数学公式无法正常显示，可看pdf、html
 
 2. 大部分时间考虑到pdf的长度代码显示不完全我会换行一下，但只是大部分
 --------
