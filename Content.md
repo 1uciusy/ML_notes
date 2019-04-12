@@ -1,0 +1,86 @@
+# Content
+
+### 一、经典机器学习算法
+
+1. 多元线性回归 [HTML](http://188.131.150.243/src/ML_notes/html/01+LinearRegression.html) 
+
+- 正规方程
+
+- 梯度下降法
+
+- MSE
+
+- 模型检验
+
+2. 逻辑回归 [HTML](http://188.131.150.243/src/ML_notes/html/02+LogisticRegression.html) 
+
+- 交叉熵
+
+- 向量求导
+
+- 雅可比行列式
+
+3. K均值聚类 [HTML](http://188.131.150.243/src/ML_notes/html/03+Kmeans.html)
+
+- 距离公式
+
+4. 高斯判别分析 [HTML](http://188.131.150.243/src/ML_notes/html/04+GaussianDescriminativeAnalysis.html)
+
+- 多元正态分布极大似然估计
+
+5. 朴素贝叶斯 [HTML](http://188.131.150.243/src/ML_notes/html/05+NaiveBayes.html)
+
+- 贝叶斯定理
+
+- 拉普拉斯平滑
+
+6. 支持向量机 [HTML](http://188.131.150.243/src/ML_notes/html/06+SupportVectorClassification.html)
+
+- 可线性完全分离最大间隔分类器
+
+- 可非线性完全分离最大间隔分类器
+
+- 拉格朗日数乘法
+
+- 对偶问题和KKT条件
+
+- 不可完全分离分类器
+
+- 软间隔和正则化
+
+- 坐标上升、SMO算法
+
+7. K近邻算法 [HTML](http://188.131.150.243/src/ML_notes/html/07+KNN.html) 
+
+8. CART分类树 [HTML](http://188.131.150.243/src/ML_notes/html/08+CART+Classification.html)
+
+- 基尼系数
+
+- 递归树
+
+9. 神经网络 [HTML](http://188.131.150.243/src/ML_notes/html/09+NeuralNetwork.html)
+
+- softmax
+
+- SGD
+
+10. 回归树 [HTML](http://188.131.150.243/src/ML_notes/html/10+CART+Regression.html)
+
+- 平方误差和方差作为划分条件的对比
+
+11. 随机森林 [HTML](http://188.131.150.243/src/ML_notes/html/11+RandomForest.html)
+
+- bagging
+
+12. EM算法和高斯混合模型 [HTML](http://188.131.150.243/src/ML_notes/html/12+ExpectationMaximization+GaussianMistureModel.html)
+
+- EM算法
+
+- 高斯混合模型
+
+### 二、神经网络专题
+
+1. 通用
+
+- 优化器（optimizer）[HTML](http://188.131.150.243/src/ML_notes/html/NN+General+optimizers+ContinuouslyUpdating.html)
+
