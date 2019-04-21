@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="478c69ed-922e-4daa-9a5c-81aa777f60cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/02+LogisticRegression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/02+LogisticRegression-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/EL+RandomForest-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02+LogisticRegression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02+LogisticRegression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EL+RandomForest.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +37,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -52,12 +49,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/testA" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
